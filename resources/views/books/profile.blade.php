@@ -25,7 +25,7 @@
             </div>
           </div>
           <div class="col-md-6 ">
-            <img src="img/post/{{$photo->photo}}" class="img-fluid rounded-start" alt="..." >
+            <img src="img/post/{{$photo->photo}}" class="img-fluid rounded-start" alt="profile picture" style="max-height:500px;max-width:500px;height:auto;width:auto;">
           </div>
         </div>
       </div>
